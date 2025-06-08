@@ -1,1 +1,39 @@
 # Taiwan_support
+
+<html>
+  <head>
+    <title>Taiwan，台灣（中華民國），台灣中國 一邊一國</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Taiwan，台灣（中華民國），台灣中國 一邊一國">
+    <meta name="keywords" content="Taiwan，台灣（中華民國），台灣中國 一邊一國">
+    <meta name="author" content="共匪死ね">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+      body {
+        margin: 20px;
+      }
+
+    </style>
+  </head>
+  
+  <body>
+    <h1>Taiwan，台灣（中華民國），台灣中國 一邊一國</h1>
+    <p>消滅萬惡共匪，剿匪滅共</p>
+    <p>反攻大陸，還都南京，拯救大陸淪陷區</p><br/>
+
+    <div>館長陳之漢</div>
+    <video controls loop autoplay muted width="100%">
+      <source src="./video01.mp4" type="video/mp4">
+      <source src="./video01.mp4" type="video/ogg">
+      Your browser does not support the video tag.
+    </video>
+  </body>
+
+  <script>
+    document.addEventListener("load", myScript);
+    function myScript() {
+      document.querySelector("video").playbackRate = 1.5;  
+    }    
+  </script>
+</html>

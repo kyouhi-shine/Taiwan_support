@@ -29,6 +29,9 @@
   </body>
 
   <script>
-    document.querySelector("video").playbackRate = 1.5;
+    document.addEventListener("load", myScript);
+    function myScript() {
+      document.querySelector("video").playbackRate = 1.5;  
+    }    
   </script>
 </html>
